@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css"/>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <title>Weed Friend</title>
+</head>
+<body>
+    <section class="header">
+        <nav>
+            <a href="#"><img src="/img/marijuana.png" alt=""></a>
+            <div class="nav-links" id="navLinks">
+                <i class="far fa-times-circle" onclick="hideMenu()"></i>
+                <ul>
+                    <li><a href="">HOME</a></li>
+                    <li><a href="">ABOUT</a></li>
+                    <li><a href="">TEAM</a></li>
+                    <li><a href="">CONTACT</a></li>
+                </ul>
+            </div>
+            <i class="fas fa-bars" onclick="showMenu()"></i>
+        </nav>
+
+        <div class="text-box">
+            <h1> Welcome to our happy community <i class="fas fa-smile-wink"></i></h1>
+            <p>Cannabis can be found in various forms, and the health </br>benefits of cannabis is ever growing.</p>
+            <a href="" class="hero-btn">Visit Us To Know More</a> 
+        </div>
+
+    </section>
+
+<!-- Section 2 -->
+<section class="sectionTwo">
+    <img src="/img/cannabis.png" alt="img">
+    <h1>MEDICAL BENEFITS</h1>
+    <p>The most common use for medical marijuana in the United States is for pain control. While marijuana isn’t strong enough for severe pain (for example, post-surgical pain or a broken bone), it is quite effective for the chronic pain that plagues millions of Americans, especially as they age. Part of its allure is that it is clearly safer than opiates (it is impossible to overdose on and far less addictive) and it can take the place of NSAIDs such as Advil or Aleve, if people can’t take them due to problems with their kidneys or ulcers or <a href="https://www.health.harvard.edu/diseases-and-conditions/gastroesophageal-reflux-disease"/>GERD</a>.</p>
+    <div class="row">
+        <div class="sectionCol">
+            <h3>Relief of chronic pain</h3>
+            <p>There are hundreds of chemical compounds in cannabis, many of which are cannabinoids. Cannabinoids have been linked to providing relief of chronic pain due to their chemical makeup. Which is why cannabis’ by-product such as medical cannabis is commonly used for chronic pain relief.</p>
+        </div>
+        <div class="sectionCol">
+            <h3>Improves lung capacity</h3>
+            <p>Unlike smoking cigarettes, when smoking cannabis in the form of cannabis your lungs aren’t harmed. In fact, a study found that cannabis actually helps increase the capacity of the lungs rather than cause any harm to it.</p>
+        </div>
+        <div class="sectionCol">
+            <h3>Help lose weight</h3>
+            <p>If you look around, you will notice that the avid cannabis user is usually not overweight. That is because cannabis is linked to aiding your body in regulating insulin while managing caloric intake efficiently.</p>
+        </div>
+    </div>
+</section>
+
+<!------ Section 3 ----->
+
+<section class="sectionThree">
+    <img src="/img/cannabis-oil.png" alt="img">
+    <h1>LET’S TALK ABOUT CBD <i class="fas fa-brain"></i></h1>
+    
+    <div class="row">
+        <div class="sectionCol-three">
+            <p>Cannabidiol ( CBD ) is an organic compound found in the cannabis plant , also known as hemp , Cannabis sativa , with up to 0.2% THC concentration . It is the second most abundant compound, representing a total of 40% of the extracts. Due to the similarity and molecular ease of synthetic conversion, CBD was initially thought to be a normal precursor of THC. Cannabidiol is one of the 113 cannabinoid chemicalsfound in the cannabis plant, many of which are being investigated for potential health benefits. Being rich in CBD, hemp is used to obtain CBD oil. CBD cannabis oils contain varying concentrations of cannabidiol, depending on the purpose of use.
+                Unlike marijuana in which the main psychoactive compound is THC , CBD naturally contains extremely low concentrations of THC.</p>
+        </div>
+    </div>
+</section>
+<!----- Footer ----->
+<section class="footer">
+    <h4>About Us</h4>
+    <p>This product is not for use by or sale to persons under the age of 18. This product should be used only as directed on the label.<br> It should not be used if you are pregnant or nursing. Consult with a physician before use if you have a serious medical condition or use prescription medications.</p>
+    <div class="icons">
+        <i class="fab fa-facebook-square"></i>
+        <i class="fab fa-twitter-square"></i>
+        <i class="fab fa-instagram-square"></i>
+        <i class="fab fa-linkedin"></i>
+    </div>
+    <p>Made by Popa Sorin</p>
+</section>
+
+
+
+
+
+<!-- ----JavaScript for Toggle Menu ----- -->
+<script>
+    var navLinks = document.getElementById("navLinks");
+
+    function showMenu(){
+        navLinks.style.right = "0";
+    }
+    function hideMenu(){
+        navLinks.style.right = "-200px";
+    }
+</script>
+
+</body>
+</html>
