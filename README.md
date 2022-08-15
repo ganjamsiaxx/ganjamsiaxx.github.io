@@ -32,4 +32,4 @@ Janji tempat paling selamat untuk anda cari ganja di Malaysia.
 我们提供全马来西亚邮寄，谨慎包装，准时送达. 担心骗子？欢迎随时查看我们的群组还有频道，我们收过来自全国各地客户的回馈评论。 绝对是您在马来西亚最安全能够找到大麻的地方。
 
 weedmalaysia, malaysiaweed, ganjamalaysia, marijuanamalaysia, cannabismalaysia, thcmalaysia, 
-budsmalaysia, malaysia420, greenmalaysia, freeweedmalaysia, stonermalaysia, stuffmalaysia, budsmalaysia, smokemalaysia, brickweedmalaysia, cannabis, smoke, green, buds, stuff, thc, brick, thaibrick, manggabrick, 
+budsmalaysia, malaysia420, greenmalaysia, freeweedmalaysia, stonermalaysia, stuffmalaysia, budsmalaysia, smokemalaysia, brickweedmalaysia, cannabis, smoke, green, buds, stuff, thc, brick, thaibrick, manggabrick, buy weed malaysia, kuala lumpur weed, malaysiaweed
